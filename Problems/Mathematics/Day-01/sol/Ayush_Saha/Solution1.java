@@ -21,6 +21,11 @@ Because we can know the number of people between 'a' and 'b' which would give us
 We can easily get the person sitting opposite to any number once we know the size of the circle.
 */
 
+/*
+Time Complexity: O(1)
+Space Complexity: O(1)
+*/
+
 import java.util.Scanner;
 
 public class Solution1 {
