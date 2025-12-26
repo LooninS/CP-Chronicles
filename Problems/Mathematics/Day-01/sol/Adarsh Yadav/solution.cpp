@@ -1,4 +1,5 @@
 //https://codeforces.com/contest/1560/problem/C
+//https://codeforces.com/contest/1560/submission/355210608
 // TC : O(1) SC: O(1)
 #include <bits/stdc++.h>
 using namespace std;
