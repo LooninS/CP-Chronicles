@@ -1,4 +1,3 @@
-
 | Name                   | GitHub ID               | College Name                                                     |
 |------------------------|-------------------------|------------------------------------------------------------------|
 | Pradip Maity           | @codeboy-pro            | Haldia Institute Of Technology                                   |
@@ -26,5 +25,7 @@
 | Ishan Tripathi          | ishantripathi64        | IIIT Allahabad                  |
 | Lavay Garg              | lavaygarg              | IIIT Allahabad                  |
 | Himanshu Vitthalani     | Himanshu-1903          | IIIT Allahabad
+| Abhishek Tripathi      | Astinel-prime           | IIIT Allahabd                                                    |
+| Ibrahim Raza Beg       | PHOX-9                  | IIIT Allahabd                                                    |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
